@@ -12,6 +12,7 @@ Repositório da Disciplina de <a href = "https://cc.ufc.br/curso/matriz-curricul
 <ul>
 <li><span class="fontstyle0"><a href="https://book.git-scm.com/book/en/v2/">https://book.git-scm.com/book/en/v2/</a></span></li>
 <li><a href="https://rogerdudler.github.io/git-guide/index.pt_BR.html">https://rogerdudler.github.io/git-guide/index.pt_BR.html</a></li>
+<li><a href="https://githowto.com/pt-BR">https://githowto.com/pt-BR</a></li>
 <li><a href="https://gitignore.io/">https://gitignore.io/</a></li>
 <li><a href="https://www.makeareadme.com/">https://www.makeareadme.com/</a></li>
 <li><a href="https://www.conventionalcommits.org/pt-br/v1.0.0/">https://www.conventionalcommits.org/pt-br/v1.0.0/</a></li>
