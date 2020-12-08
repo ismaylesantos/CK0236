@@ -1,4 +1,4 @@
-package solid.to.refactor.lsp.ruim;
+package solid.to.refactor.lsp.bom;
 
 public class ContaDeEstudante extends ContaComum {
 	
