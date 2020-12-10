@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ProcessadorDeInvestimentos {
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		
 		for (ContaComum conta : contasDoBanco()) {
 			conta.rende();

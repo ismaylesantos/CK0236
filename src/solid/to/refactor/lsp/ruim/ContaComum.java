@@ -9,14 +9,20 @@ public class ContaComum {
 	}
 	
 	public void deposita(double valor) {
-		this.saldo += valor;
+		if (valor >= 5.0)			 
+			this.saldo += valor;
+		else
+			this.saldo += 2*valor;
 	}
 	
 	public double getSaldo() {
 		return saldo;
 	}
 	
-	public void rende() {
+	public void rende() throws Exception {
+		if(saldo <= 0.0) {
+			throw new Exception("valor menor ou igual a 0");
+		}		
 		this.saldo *= 1.1;
 	}
 }

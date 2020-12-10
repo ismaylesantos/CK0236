@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>CK0236</groupId>
+  <artifactId>CK0236</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>CK0236</name>
+  <description>Código das aulas da disciplina ck0236</description>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <release>13</release>                  
+        </configuration>
+      </plugin>      
+    </plugins>
+    
+  </build>  
+  <dependencies>	  
+	  <dependency>
+	  <groupId>org.mockito</groupId>
+	  <artifactId>mockito-core</artifactId>
+	  <version>3.6.28</version>
+	  </dependency>
+</dependencies>
+
+</project>

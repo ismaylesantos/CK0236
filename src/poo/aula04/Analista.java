@@ -1,4 +1,4 @@
-package poo;
+package poo.aula04;
 
 public class Analista extends Funcionario {
 

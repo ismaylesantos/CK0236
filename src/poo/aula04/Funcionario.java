@@ -1,4 +1,4 @@
-package poo;
+package poo.aula04;
 
 //Classe abstrata
 public abstract class Funcionario {
