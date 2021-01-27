@@ -29,4 +29,5 @@ Repositório da Disciplina de <a href = "https://cc.ufc.br/curso/matriz-curricul
 <ul>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status">https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status</a></li>
 <li><a href="https://www.themoviedb.org/">API Pública - Movie DB</a></li>
+<li><a href="https://petstore.swagger.io/">Exemplo swagger - petstore</a></li>  
 </ul>
