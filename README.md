@@ -24,3 +24,9 @@ Repositório da Disciplina de <a href = "https://cc.ufc.br/curso/matriz-curricul
 <li><a href="https://choosealicense.com/licenses/">https://choosealicense.com/licenses/</a></li>
 <li><a href="http://escolhaumalicenca.com.br/">http://escolhaumalicenca.com.br/</a></li>
 </ul>
+
+<p>API</p>
+<ul>
+<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status">https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status</a></li>
+<li><a href="https://www.themoviedb.org/">API Pública - Movie DB</a></li>
+</ul>
