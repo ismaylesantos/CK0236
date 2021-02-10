@@ -38,10 +38,10 @@ public class ExemplosExceções {
 		*/
 		
 		//3 - Exceção que não é capturada
-		//exemploComExceçãoNãoCapturada();
+		exemploComExceçãoNãoCapturada();
 		
 		//4 - Catch vazio
-		exemploComCatchVazio();
+		//exemploComCatchVazio();
 	}
 	
 	public void metodoComExceção () throws FileNotFoundException {
