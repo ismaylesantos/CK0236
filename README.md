@@ -29,4 +29,7 @@ Repositório da Disciplina de <a href = "https://cc.ufc.br/curso/matriz-curricul
 <ul>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status">https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status</a></li>
 <li><a href="https://www.themoviedb.org/">API Pública - Movie DB</a></li>
+<li><a href="https://petstore.swagger.io/">Exemplo swagger - petstore</a></li>  
+<li><a href="https://medium.com/@gabrielrufinoo/put-vs-patch-pare-de-agora-escolher-errado-533b8c6058d9">PUT vs PATCH</a></li>  
+<li><a href="https://learning.postman.com/docs/writing-scripts/test-scripts/">Scripts de Testes com o Postman</a></li> 
 </ul>
