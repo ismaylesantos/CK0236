@@ -12,14 +12,14 @@ public class ExemplosExceções2 {
 
 	public List<String> recuperarTexto (String fileName) throws IOException{
 		FileInputStream stream;
-		try {
+		//try {
 			stream = new FileInputStream(fileName); // pode causar FileNotFoundException			
 			stream.close(); // pode causar IOException			
-		} catch (FileNotFoundException e) {
+		/*} catch (FileNotFoundException e) {
 			Logger logger = Logger.getAnonymousLogger();
 			logger.log(Level.SEVERE, "Arquivo não encontrado");			
 			
-		} 
+		} */
 		return new ArrayList<String>();
 	}
 }
