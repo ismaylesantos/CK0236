@@ -33,3 +33,8 @@ Repositório da Disciplina de <a href = "https://cc.ufc.br/curso/matriz-curricul
 <li><a href="https://medium.com/@gabrielrufinoo/put-vs-patch-pare-de-agora-escolher-errado-533b8c6058d9">PUT vs PATCH</a></li>  
 <li><a href="https://learning.postman.com/docs/writing-scripts/test-scripts/">Scripts de Testes com o Postman</a></li> 
 </ul>
+
+<p>Outros</p>
+<ul>
+<li><a href="https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7">12 common mistakes made when using Story Points</a></li>
+</ul>
