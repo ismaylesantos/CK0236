@@ -36,5 +36,7 @@ Repositório da Disciplina de <a href = "https://cc.ufc.br/curso/matriz-curricul
 
 <p>Outros</p>
 <ul>
-<li><a href="https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7">12 common mistakes made when using Story Points</a></li><li><a href="https://dl.acm.org/doi/10.1145/3422392.3422440">What causes merge conflicts?</a></li>
+<li><a href="https://medium.com/serious-scrum/12-common-mistakes-made-when-using-story-points-f0bb9212d2f7">12 common mistakes made when using Story Points</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3422392.3422440">What causes merge conflicts?</a></li>
+<li><a href = "https://medium.com/@davidsen/clean-code-object-calisthenics-f6f4dec07c8b"> Clean Code - Object Calisthenics</a></li>
 </ul>
